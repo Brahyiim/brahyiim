@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brahyiim&label=Profile%20views&color=0e75b6&style=flat" alt="brahyiim" /> </p>
 <h1 align="center">Hi 👋, I'm Brahim ben akkez</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brahyiim&label=Profile%20views&color=0e75b6&style=flat" alt="brahyiim" /> </p>
+
 
 - 🔭 I’m currently working on [colloHQ](https://github.com/colloHQ/collo-core-service)
 
